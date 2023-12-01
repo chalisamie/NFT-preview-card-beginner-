@@ -1,4 +1,4 @@
-/* cursor ไม่เป็น pointer */
+
 
 body {
   background-color: hsl(217, 54%, 11%);
@@ -64,7 +64,7 @@ hr {
   border-width: 0.05cm;
 }
 
-/* ลองดูค่าของ font-weight 100-1000 bold = 700 normal = 400 */
+
 
 p {
   font-weight: lighter;
